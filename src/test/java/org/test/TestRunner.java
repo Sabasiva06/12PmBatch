@@ -22,6 +22,27 @@ public class TestRunner {
 	public void adjih() {
 		System.out.println("jdaj");
 
+
 	}
+	public void sampeCode() {
+		System.out.println("Sampe code");
+
+	}
+
+	public void sampleCode1() {
+		System.out.println("Sample code 1");
+
+	}
+
+	public void sampleCode2() {
+		System.out.println("Sample Code 2");
+
+	}
+
+	public void sampleCode3() {
+		System.out.println("Sample Code 3");
+		
+	}
+	
 
 }

@@ -13,8 +13,7 @@ public class StepDef extends LibGlobal {
 
 	@Given("user is on fb page")
 	public void user_is_on_fb_page() {
-		getDriver();
-		launchUrl("https://www.facebook.com/");
+		
 		
 	}
 

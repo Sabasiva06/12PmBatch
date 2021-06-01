@@ -1,0 +1,465 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 7357743400,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksClass.beforeScenario()"
+            }
+          }
+        ],
+        "line": 5,
+        "name": "validating Fb home page",
+        "description": "",
+        "id": "validating-login-functionality;validating-fb-home-page",
+        "after": [
+          {
+            "result": {
+              "duration": 176934800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksClass.afterScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 159500,
+              "status": "passed"
+            },
+            "line": 6,
+            "name": "user is on fb page",
+            "match": {
+              "location": "StepDef.user_is_on_fb_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 265489300,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "user need to enter username and password",
+            "match": {
+              "location": "StepDef.user_need_to_enter_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 92924300,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "user need to click login button",
+            "match": {
+              "location": "StepDef.user_need_to_click_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 348900,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "user need to validate the page",
+            "match": {
+              "location": "StepDef.user_need_to_validate_the_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@F1"
+          },
+          {
+            "name": "@reg"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4260293500,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksClass.beforeScenario()"
+            }
+          }
+        ],
+        "line": 12,
+        "name": "validating Fb home page",
+        "description": "",
+        "id": "validating-login-functionality;validating-fb-home-page",
+        "after": [
+          {
+            "result": {
+              "duration": 4194371800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksClass.afterScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 35600,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "user is on fb page",
+            "match": {
+              "location": "StepDef.user_is_on_fb_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 186663100,
+              "status": "passed"
+            },
+            "line": 14,
+            "name": "user need to enter username and password",
+            "match": {
+              "location": "StepDef.user_need_to_enter_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 83673400,
+              "status": "passed"
+            },
+            "line": 15,
+            "name": "user need to click login button",
+            "match": {
+              "location": "StepDef.user_need_to_click_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 109500,
+              "status": "passed"
+            },
+            "line": 16,
+            "name": "user need to validate the page",
+            "match": {
+              "location": "StepDef.user_need_to_validate_the_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@F1"
+          },
+          {
+            "name": "@smoke"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3828281000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksClass.beforeScenario()"
+            }
+          }
+        ],
+        "line": 19,
+        "name": "validating Fb home page",
+        "description": "",
+        "id": "validating-login-functionality;validating-fb-home-page",
+        "after": [
+          {
+            "result": {
+              "duration": 138239900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksClass.afterScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 41900,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "user is on fb page",
+            "match": {
+              "location": "StepDef.user_is_on_fb_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 209993300,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "user need to enter username and password",
+            "match": {
+              "location": "StepDef.user_need_to_enter_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 105229800,
+              "status": "passed"
+            },
+            "line": 22,
+            "name": "user need to click login button",
+            "match": {
+              "location": "StepDef.user_need_to_click_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 143600,
+              "status": "passed"
+            },
+            "line": 23,
+            "name": "user need to validate the page",
+            "match": {
+              "location": "StepDef.user_need_to_validate_the_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@F1"
+          },
+          {
+            "name": "@E2E"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 3640781900,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksClass.beforeScenario()"
+            }
+          }
+        ],
+        "line": 26,
+        "name": "validating Fb home page",
+        "description": "",
+        "id": "validating-login-functionality;validating-fb-home-page",
+        "after": [
+          {
+            "result": {
+              "duration": 137991000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksClass.afterScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 43400,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "user is on fb page",
+            "match": {
+              "location": "StepDef.user_is_on_fb_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 168192900,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "user need to enter username and password",
+            "match": {
+              "location": "StepDef.user_need_to_enter_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 61119300,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "user need to click login button",
+            "match": {
+              "location": "StepDef.user_need_to_click_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 75300,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "user need to validate the page",
+            "match": {
+              "location": "StepDef.user_need_to_validate_the_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@F1"
+          },
+          {
+            "name": "@Retest"
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 4139488800,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksClass.beforeScenario()"
+            }
+          }
+        ],
+        "line": 33,
+        "name": "validating Fb home page",
+        "description": "",
+        "id": "validating-login-functionality;validating-fb-home-page",
+        "after": [
+          {
+            "result": {
+              "duration": 236241000,
+              "status": "passed"
+            },
+            "match": {
+              "location": "HooksClass.afterScenario()"
+            }
+          }
+        ],
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 61900,
+              "status": "passed"
+            },
+            "line": 34,
+            "name": "user is on fb page",
+            "match": {
+              "location": "StepDef.user_is_on_fb_page()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 194753500,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "user need to enter username and password",
+            "match": {
+              "location": "StepDef.user_need_to_enter_username_and_password()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 86977800,
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "user need to click login button",
+            "match": {
+              "location": "StepDef.user_need_to_click_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 74100,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "user need to validate the page",
+            "match": {
+              "location": "StepDef.user_need_to_validate_the_page()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@F1"
+          },
+          {
+            "name": "@reg"
+          },
+          {
+            "name": "@smoke"
+          }
+        ]
+      }
+    ],
+    "name": "validating login functionality",
+    "description": "",
+    "id": "validating-login-functionality",
+    "keyword": "Feature",
+    "uri": "src/test/resources/Login.feature",
+    "tags": [
+      {
+        "name": "@F1",
+        "type": "Tag",
+        "location": {
+          "line": 1,
+          "column": 1
+        }
+      }
+    ]
+  }
+]
